@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <PackageId>#SOLUTION_NAME</PackageId>
+	  <Version>0.1.0</Version>
+	  <Authors>Patryk Kunicki</Authors>
+	  <Description>#DESCRIPTION</Description>
+	  <PackageProjectUrl>https://github.com/pankunik/#REPO_NAME</PackageProjectUrl>
+	  <RepositoryUrl>https://github.com/pankunik/#REPO_NAME</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <PackageTags>#TAGS</PackageTags>
+	  <TargetFramework>net10.0</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
